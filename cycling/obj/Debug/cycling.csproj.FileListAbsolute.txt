@@ -1,0 +1,34 @@
+I:\C#\cycling\cycling\bin\Debug\cycling.exe.config
+I:\C#\cycling\cycling\bin\Debug\cycling.exe
+I:\C#\cycling\cycling\bin\Debug\cycling.pdb
+I:\C#\cycling\cycling\obj\Debug\cycling.csprojResolveAssemblyReference.cache
+I:\C#\cycling\cycling\obj\Debug\cycling.cycling.resources
+I:\C#\cycling\cycling\obj\Debug\cycling.Properties.Resources.resources
+I:\C#\cycling\cycling\obj\Debug\cycling.csproj.GenerateResource.Cache
+I:\C#\cycling\cycling\obj\Debug\cycling.exe
+I:\C#\cycling\cycling\obj\Debug\cycling.pdb
+G:\C#\cycling\cycling\bin\Debug\cycling.exe.config
+G:\C#\cycling\cycling\obj\Debug\cycling.exe
+G:\C#\cycling\cycling\obj\Debug\cycling.pdb
+G:\C#\cycling\cycling\bin\Debug\cycling.exe
+G:\C#\cycling\cycling\bin\Debug\cycling.pdb
+G:\C#\cycling\cycling\obj\Debug\cycling.cycling.resources
+G:\C#\cycling\cycling\obj\Debug\cycling.Properties.Resources.resources
+G:\C#\cycling\cycling\obj\Debug\cycling.csproj.GenerateResource.Cache
+G:\C#\cycling\cycling\obj\Debug\cycling.csprojResolveAssemblyReference.cache
+C:\Users\YAM HON GIT\Documents\asdb\cycling\bin\Debug\cycling.exe.config
+C:\Users\YAM HON GIT\Documents\asdb\cycling\obj\Debug\cycling.exe
+C:\Users\YAM HON GIT\Documents\asdb\cycling\obj\Debug\cycling.pdb
+C:\Users\YAM HON GIT\Documents\asdb\cycling\bin\Debug\cycling.exe
+C:\Users\YAM HON GIT\Documents\asdb\cycling\bin\Debug\cycling.pdb
+C:\Users\YAM HON GIT\Documents\asdb\cycling\obj\Debug\cycling.cycling.resources
+C:\Users\YAM HON GIT\Documents\asdb\cycling\obj\Debug\cycling.Properties.Resources.resources
+C:\Users\YAM HON GIT\Documents\asdb\cycling\obj\Debug\cycling.csproj.GenerateResource.Cache
+G:\C#\cycling\bin\Debug\cycling.exe.config
+G:\C#\cycling\obj\Debug\cycling.exe
+G:\C#\cycling\obj\Debug\cycling.pdb
+G:\C#\cycling\bin\Debug\cycling.exe
+G:\C#\cycling\bin\Debug\cycling.pdb
+G:\C#\cycling\obj\Debug\cycling.Cycling.resources
+G:\C#\cycling\obj\Debug\cycling.Properties.Resources.resources
+G:\C#\cycling\obj\Debug\Cycling.csproj.GenerateResource.Cache
